@@ -12,7 +12,7 @@ whitelisted_user_ids = [
     123456789123456789,  # your_moderator_user_id_here
 ]
 target_strings = [
-    'massa',
+    'massA',
     'massa support',
     'massa official',
 ]
